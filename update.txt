@@ -1,5 +1,6 @@
 {
 "version":"9.21",
 "title":"Nueva Actualización",
-"description":"• Primer cambio\n• Segundo cambio\n • Tercer cambio\n • Cuarto cambio\n • Quinto cambio"
+"description":"• Primer cambio\n• Segundo cambio\n • Tercer cambio\n • Cuarto cambio\n • Quinto cambio",
+"download":"www.naiimods.com"
 }
