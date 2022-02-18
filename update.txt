@@ -1,6 +1,6 @@
 {
 "version":"9.21",
 "title":"Nueva Actualización",
-"description":"• Primer cambio\n• Segundo cambio\n • Tercer cambio\n • Cuarto cambio\n • Quinto cambio",
+"description":"• Add Boom tex\n• Add Quick contac\n • Add List View\n • Add Cards Stile\n • New Reaction Emoji",
 "download":"https://www.naiimods.com/"
 }
