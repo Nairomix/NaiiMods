@@ -1,5 +1,5 @@
 {
-"version":"xxxxx",
+"version":"8.79",
 "title":"Nueva Actualización",
 "description":"• Add Boom tex\n• Add Quick contac\n • Add List View\n • Add Cards Stile\n • New Reaction Emoji",
 "download":"https://www.naiimods.com/"
