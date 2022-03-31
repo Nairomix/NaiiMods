@@ -2,5 +2,5 @@
 "version":"9.26",
 "title":"WaMix Versión 9.26",
 "description":"• Add Reacionar😂 a los mensajes\n• Add Información de contacto rapido\n • Add Efectos al deslizar los chats, Estados y llamadas\n • Add Estilos de Tarjetas Nuevos\n • Add Mensajes Bomba(BoomTex)\n • Otras Mejoras y Correcciones\n • 🥳Comparte y Difruta ((Team NaiiMods))✨",
-"download":"https://www.naiimods.com/2022/02/MIXWhatsApp.html"
+"download":"https://www.naiimods.com/2020/03/OfficialWaMix.html"
 }
