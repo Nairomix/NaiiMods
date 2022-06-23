@@ -1,5 +1,5 @@
 {
-"version":"9.26",
+"version":"9.27",
 "title":"MIXWhatsApp New V9.27",
 "description":"• Nuevos Emojis\n • Reacciónes Perzonalizadas\n • Doble toque para dar Like 👍 a los mensajes\n • Escuchar Notas de voz en segundo plano\n • Emojis o Stickers para poner de foto de perfil\n • Confirmar antes de Subir estado\n • Efectos al deslizar los chats, Estados y llamadas\n •  Estilos de Tarjetas, pantalla principal, estado y llamadas\n • Mensajes Bomba(BoomTex)\n • Entre Otras Mejoras y Cambios Mas\n • 🥳Comparte y Difruta ((NaiiMods))",
 "download":"https://nm-mixwhatsapp.blogspot.com/?m=1"
