@@ -2,5 +2,5 @@
 "version":"9.45",
 "title":"Nueva Actualización",
 "description":"• Primer cambio\n• Segundo cambio\n • Tercer cambio\n • Cuarto cambio\n • Quinto cambio",
-"download":"www.google.com"
+"download":"https://nm-mixwhatsapp.blogspot.com/2022/05/OficialWhamix.html"
 }
