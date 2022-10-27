@@ -1,6 +1,6 @@
 {
 "version":"9.45",
 "title":"Nueva Actualización",
-"description":"• Primer cambio\n• Segundo cambio\n • Tercer cambio\n • Cuarto cambio\n • Quinto cambio",
+"description":"• Boom Tex mensaje bomba\n• Estilos de Tarjetas Cards en las 3 pantallas\n • Nuevos Iconos de notificacion y launcher\n •Activado Crear encuestas y votaciones en grupos\n • Opción de reenvío para Historia Estado",
 "download":"https://nm-mixwhatsapp.blogspot.com/2022/05/OficialWhamix.html"
 }
