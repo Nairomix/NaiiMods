@@ -1,6 +1,6 @@
 {
-"version":"9.27",
-"title":"MIXWhatsApp New V9.27",
-"description":"• Boom Tex (mensaje bomba)\n • Efectos de transición al deslizar los chats\n • Estilos de Tarjetas Cards en las 3 pantallas\n • Nuevos Iconos\n • Vista previa de imagen video sin guardar en el teléfono\n • Opción de reenvío para Historia Estado\n • Las copias de seguridad de MIXWA ahora crearon un archivo zip\n •  Seleccione el idioma predeterminado traducir en convos (MIXWA > Universal >Configuración). Menos pasos traducción más rápida\n • Opción para guardar después de la vista previa de la imagen video 3 puntos  guardar en la galería\n • Activado Crea encuestas y votaciones en grupos 📊!\n • 🥳Comparte y Difruta ((NaiiMods))",
-"download":"https://nm-mixwhatsapp.blogspot.com/?m=1"
+"version":"9.45",
+"title":"Nueva Actualización",
+"description":"• Primer cambio\n• Segundo cambio\n • Tercer cambio\n • Cuarto cambio\n • Quinto cambio",
+"download":"www.google.com"
 }
