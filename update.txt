@@ -1,6 +1,6 @@
 {
 "version":"9.47",
-"title":"Nueva Actualización",
-"description":"• Boom Tex mensaje bomba\n• Estilos de Tarjetas Cards en las 3 pantallas\n • Nuevos Iconos de notificacion y launcher\n •Activado Crear encuestas y votaciones en grupos\n • Opción de reenvío para Historia Estado",
+"title":"Nueva Versión 9.52",
+"description":"• Agg🎉 Boom Tex mensaje bomba\n• Agg🎉Estilos de Tarjetas Cards en las 3 pantallas\n Agg🎉Nuevos Iconos de notificacion y launcher\n Agg🎉Activado Crear encuestas y votaciones en grupos Funcionando\n Agg🎉Opción de reenvío para Historia Estado",
 "download":"https://nm-mixwhatsapp.blogspot.com/2022/05/OficialWhamix.html"
 }
