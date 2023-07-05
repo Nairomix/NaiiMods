@@ -1,6 +1,6 @@
 {
-"version":"9.63",
-"title":"Nueva Versión 9.63",
-"description":"• Add Boom Tex mensaje bomba\n• Add Estilos de Tarjetas Cards en las 3 pantallas\n• Add Nuevos Iconos de notificacion y launcher\n• Add Activado Crear encuestas y votaciones en grupos Funcionando\n• Add Opción de reenvío para Historia Estado",
+"version":"9.71",
+"title":"Nueva Versión 9.71",
+"description":"• Nueva Actualización Disponible Descarga AQUÍ ⤵️⚠️", 
 "download":"https://nm-mixwhatsapp.blogspot.com/2023/01/OficialWaMix.html?m=1"
 }
