@@ -1,6 +1,6 @@
 {
 "version":"9.74",
-"title":"Nueva Versión 9.71",
+"title":"Nueva Versión 9.74",
 "description":"• Nueva Actualización Disponible Descarga AQUÍ 🤩🤩🤩🤩🤩⤵️", 
 "download":"https://nm-mixwhatsapp.blogspot.com/2023/01/OficialWaMix.html?m=1"
 }
