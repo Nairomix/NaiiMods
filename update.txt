@@ -1,6 +1,6 @@
 {
-"version":"9.74",
-"title":"Nueva Versión 9.74",
-"description":"• Nueva Actualización Disponible Descarga AQUÍ 🤩🤩🤩🤩🤩⤵️", 
+"version":"9.75",
+"title":"Actualización V9.75",
+"description":"• Nueva versión Disponible Descarga aqui en el boton actualizar. By Nairo Mix🤩🤩🤩🤩🤩", 
 "download":"https://nm-mixwhatsapp.blogspot.com/2023/01/OficialWaMix.html?m=1"
 }
