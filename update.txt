@@ -1,6 +1,6 @@
 {
-"version":"9.83",
-"title":"Actualización V9.83",
-"description":"• Nueva versión Disponible Descarga aqui en el boton actualizar. By Nairo Mix😎", 
+"version":"9.84",
+"title":"Actualización V9.84",
+"description":"• Actualización Extendida expired, ⚠️Nota importante si usted fue baneando no intente verificar con esta aplicación.by Naiimods.com", 
 "download":"https://nm-mixwhatsapp.blogspot.com/2023/01/OficialWaMix.html?m=1"
 }
