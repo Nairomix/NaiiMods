@@ -1,6 +1,6 @@
 {
-"version":"9.84",
-"title":"Actualización V9.84",
+"version":"9.96",
+"title":"Actualización V9.96",
 "description":"• Actualización Extendida expired, ⚠️Nota importante si usted fue baneando no intente verificar con esta aplicación.by Naiimods.com", 
 "download":"https://nm-mixwhatsapp.blogspot.com/2023/01/OficialWaMix.html?m=1"
 }
